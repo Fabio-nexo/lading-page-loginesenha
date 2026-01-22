@@ -135,3 +135,48 @@ body {
 
 
 
+
+.form-header {
+    background: #9f845f;
+    color: #fff;
+    text-align: center;
+    font-weight: 600;
+    padding: 18px;
+    border-radius: 12px 12px 0 0;
+    letter-spacing: 1px;
+}
+
+.input-box.clean input {
+    width: 70%;
+    margin: 30px auto;
+    display: block;
+    border: 1px solid #999;
+    border-radius: 2px;
+    padding: 12px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.valor-item {
+    text-align: right;
+    margin-right: 30px;
+    font-size: 18px;
+}
+
+.login {
+    display: block;
+    text-align: center;
+    padding: 12px;
+    background: #b39a6f;
+    color: #fff;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+
+
+
+
+
+
